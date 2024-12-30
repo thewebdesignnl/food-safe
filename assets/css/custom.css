@@ -1,0 +1,12 @@
+/* custom css */
+
+.modal-gallery {  max-width: 90%;}
+
+.note-popover.popover {  display:none;}
+
+body ::selection {
+        background-color: var(--theme-color);
+        color:#fff ;
+    }
+.order-details-table .order-success .order-details li {  text-transform: inherit;}
+.page-wrapper.compact-wrapper .page-body-wrapper div.sidebar-wrapper {  background: var(--theme-color);}
